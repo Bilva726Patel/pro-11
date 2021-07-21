@@ -9,7 +9,7 @@ var energyDrink,energyDrinkimg
 
 function preload(){
   //pre-load images
-  jaxon_running = loadAnimation("runner-1.png","runner-2.png",);
+  jaxon_running = loadAnimation("Runner-1.png","Runner-2.png",);
   pathImage = loadImage("path.png")
   coinimg= loadImage("coin.png")
   bombimg= loadImage("bomb.png")
